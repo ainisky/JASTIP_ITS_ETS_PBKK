@@ -1,0 +1,15 @@
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\bin\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.exe
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\bin\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.deps.json
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\bin\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.runtimeconfig.json
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\bin\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.dll
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\bin\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.pdb
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.AssemblyInfoInputs.cache
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.AssemblyInfo.cs
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.csproj.CoreCompileInputs.cache
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.sourcelink.json
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.dll
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\refint\JASTIP_ITS_ETS_PBKK.dll
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.pdb
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\JASTIP_ITS_ETS_PBKK.genruntimeconfig.cache
+C:\VSCodeProject\pbkk\ETS\JASTIP_ITS_ETS_PBKK\obj\Debug\net10.0-windows\ref\JASTIP_ITS_ETS_PBKK.dll
